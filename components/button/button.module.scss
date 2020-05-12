@@ -1,0 +1,7 @@
+@import '../../styles/variables.scss';
+
+.button {
+  color: $colorMain;
+  border: solid 1px $colorMain;
+  cursor: pointer;
+}
