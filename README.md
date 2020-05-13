@@ -1,9 +1,9 @@
 # Basic NextJS POC
-This is a POC for myself and my thoughts are:
+This is a quick overview and POC for myself as i am a SPA person and my thoughts are:
 
 ## pros
 - easy to obtain
-- code splitting
+- code splitting-ish- (it splits code just because serves them kinda static page)
 
 ## cons
 - static generated pages are staticly generated on buildtime (hence the name) and served as is, can't get updates from dynamic endpoints
