@@ -19,3 +19,14 @@ It is seems promising at first but my experince with NextJS is not ideal. I don'
 
 ### start development
 `npm run dev`
+
+
+## some useful links
+
+ - global state managing:
+
+    https://stackoverflow.com/questions/57013202/managing-users-global-state-on-next-js-application
+  
+- official examples
+
+  https://github.com/zeit/next.js/tree/canary/examples
